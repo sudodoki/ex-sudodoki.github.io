@@ -3,4 +3,4 @@
 	url = https://github.com/sudodoki/angular-fusioncharts.git
 [submodule "firebase-contacts"]
 	path = firebase-contacts
-	url = git@github.com:sudodoki/contacts-firebase-angular.git
+	url = https://github.com/sudodoki/contacts-firebase-angular.git
