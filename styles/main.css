@@ -29,9 +29,12 @@ html {
 }
 
 h1 {
+    overflow: hidden;
+    text-overflow: ellipsis;
     margin: 0 10px;
     font-size: 50px;
     text-align: center;
+    padding-bottom: 10px;
 }
 
 h1 span {
